@@ -39,23 +39,9 @@ Elegance without compromise.
 - Open-source software and system optimization
 - Writing better code and learning through projects
 
-### `04` — My philosophy
 
-I like the contrast between engineering and aesthetics: the complexity beneath the surface and the simplicity presented to the user.
 
-The best solutions don't force us to choose between the two.
-
-```text
-        LOGIC  +  CREATIVITY
-                |
-                v
-       FUNCTIONALITY × DESIGN
-                |
-                v
-           BETTER THINGS
-```
-
-### `05` — Around here
+### `04` — Around here
 
 You'll find experiments, configurations, personal projects, and things I'm learning along the way.
 
